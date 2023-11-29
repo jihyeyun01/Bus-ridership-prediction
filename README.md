@@ -1,7 +1,7 @@
 # 퇴근시간 버스승차인원 예측 경진대회
 https://dacon.io/competitions/official/229255/overview/description
 
-(https://www.notion.so/0dc4cb6d5d7e412bb126fcb7aa5a94bf)
+https://www.notion.so/0dc4cb6d5d7e412bb126fcb7aa5a94bf
 
 팀원 : 강수인, 박지후, 박희영, 윤지혜
 
